@@ -19,6 +19,10 @@ class Test
     1+ 1
   end
   
+  def aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaahhhhhhhhhhhh( one)
+    puts "hello"
+  end
+  
   def hi(a, b)
     a + b
   end
