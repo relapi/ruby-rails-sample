@@ -18,4 +18,8 @@ class Test
     puts "one"
     1+ 1
   end
+  
+  def hi(a, b)
+    a + b
+  end
 end
